@@ -1,7 +1,6 @@
 import feature.Car;
 import feature.Person;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
