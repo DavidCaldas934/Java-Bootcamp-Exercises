@@ -40,6 +40,7 @@ public class Main {
         System.out.println("The subtraction is: " + subtraction);
         System.out.println("The multiplication is: " + multiplication);
         System.out.println("The division is: " + division);
+        System.out.println("===============================================0");
 
         scanner.close();
 
